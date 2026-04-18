@@ -1,4 +1,4 @@
-Software Factory Management System
+## Software Factory Management System
 
 Um sistema de gerenciamento de back-end desenvolvido em Python para otimizar o fluxo de trabalho em fábricas de software e consultorias de tecnologia.
 
